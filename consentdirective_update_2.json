@@ -3,7 +3,7 @@
   "id": "consentdirective",
   "text": {
     "status": "generated",
-    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>The narrative has been removed to reduce the size of the distribution of the Hl7.Fhir.Specification library</p></div>"
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>The narrative has not been removed to reduce the size of the distribution of the Hl7.Fhir.Specification library</p></div>"
   },
   "url": "http://hl7.org/fhir/StructureDefinition/consentdirective",
   "name": "Consent Directive",
