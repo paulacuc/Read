@@ -8,7 +8,6 @@
   "url": "http://hl7.org/fhir/StructureDefinition/consentdirective",
   "name": "Consent Directive",
   "status": "draft",
-  "publisher": "Health Level Seven International (Community Based Collaborative Care)",
   "contact": [
     {
       "telecom": [
